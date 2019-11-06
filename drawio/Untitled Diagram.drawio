@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-06T10:44:24.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="XACwSETz5nOZoW-1Suz5" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-06T10:47:11.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15" etag="TDy41ySZqxV4mMpW48Vj" version="12.2.0" type="github" pages="1">
   <diagram id="4f1FF0JR875sqyUcqD1P" name="Page-1">
-    <mxGraphModel dx="877" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -85,8 +85,8 @@
             <mxPoint x="404" y="290" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Om71xXF0C_-sWj4UQDyn-27" value="Application Network" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="653" y="260" width="120" height="20" as="geometry"/>
+        <mxCell id="Om71xXF0C_-sWj4UQDyn-27" value="Back-end Network" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="653" y="260" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Om71xXF0C_-sWj4UQDyn-33" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
           <mxGeometry x="376.5" y="410" width="54" height="50" as="geometry"/>
@@ -174,6 +174,21 @@
         </mxCell>
         <mxCell id="Om71xXF0C_-sWj4UQDyn-71" value="Internet" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="709" y="-98" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Om71xXF0C_-sWj4UQDyn-72" value="VPN" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="291" y="-5" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Om71xXF0C_-sWj4UQDyn-75" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="400" y="-168" width="47" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="Om71xXF0C_-sWj4UQDyn-76" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="-73" as="sourcePoint"/>
+            <mxPoint x="423" y="-108" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Om71xXF0C_-sWj4UQDyn-77" value="Remote Client" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="-153" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
