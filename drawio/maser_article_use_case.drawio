@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-10T16:21:35.236Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="zYgkUsivK9yHWaVcBrXI" version="12.6.7" type="github">
+<mxfile modified="2020-02-10T16:24:39.826Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="9ZH3WKuFaws1E01A_Zwu" version="12.6.7" type="github">
   <diagram id="0PhkyZh6pTqeAU5DWifH" name="Page-1">
     <mxGraphModel dx="1372" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="1vbUXdz7X8TG0rLyYipP-16" value="Service function chaining in NFV" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="122.5" y="130" width="280" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="_eaUEFpU1vUXmYSTCjyz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#EA6B66;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="_eaUEFpU1vUXmYSTCjyz-13" target="_eaUEFpU1vUXmYSTCjyz-29">
+        <mxCell id="_eaUEFpU1vUXmYSTCjyz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#EA6B66;strokeWidth=2;fontSize=14;dashed=1;" edge="1" parent="1" source="_eaUEFpU1vUXmYSTCjyz-13" target="_eaUEFpU1vUXmYSTCjyz-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="247.5" y="480" as="targetPoint"/>
           </mxGeometry>
@@ -42,7 +42,7 @@
             <mxPoint x="255" y="310" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_eaUEFpU1vUXmYSTCjyz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#EA6B66;strokeWidth=2;fontSize=14;" edge="1" parent="1" source="_eaUEFpU1vUXmYSTCjyz-29" target="_eaUEFpU1vUXmYSTCjyz-31">
+        <mxCell id="_eaUEFpU1vUXmYSTCjyz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;strokeColor=#EA6B66;strokeWidth=2;fontSize=14;dashed=1;" edge="1" parent="1" source="_eaUEFpU1vUXmYSTCjyz-29" target="_eaUEFpU1vUXmYSTCjyz-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292.5" y="480" as="sourcePoint"/>
             <mxPoint x="425" y="480" as="targetPoint"/>
@@ -65,6 +65,24 @@
         </mxCell>
         <mxCell id="_eaUEFpU1vUXmYSTCjyz-31" value="MACsec-enabled&lt;br&gt;port" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="430" width="98.75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="_eaUEFpU1vUXmYSTCjyz-33" value="" style="endArrow=none;html=1;strokeColor=#EA6B66;strokeWidth=2;fontSize=14;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="42.5" y="603" as="sourcePoint"/>
+            <mxPoint x="110" y="603" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eaUEFpU1vUXmYSTCjyz-34" value="" style="endArrow=none;html=1;strokeColor=#3700CC;strokeWidth=2;fontSize=14;fillColor=#6a00ff;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="42.5" y="580" as="sourcePoint"/>
+            <mxPoint x="110" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_eaUEFpU1vUXmYSTCjyz-35" value="secured by MACsec" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="116" y="568" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="_eaUEFpU1vUXmYSTCjyz-36" value="unencrypted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="117" y="591" width="90" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
