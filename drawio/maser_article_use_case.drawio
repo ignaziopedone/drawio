@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-13T07:46:26.002Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="mmtp1I6HQlbTNUNCql6e" version="12.6.8" type="github">
+<mxfile modified="2020-02-13T07:48:12.684Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="MygBpYjfoDfkm4SMim5O" version="12.6.8" type="github">
   <diagram id="0PhkyZh6pTqeAU5DWifH" name="Page-1">
     <mxGraphModel dx="1374" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,13 +81,13 @@
         <mxCell id="_eaUEFpU1vUXmYSTCjyz-36" value="unencrypted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="117" y="591" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="T3owfNQylt5vciqT8Fi2-1" value="macsec" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="T3owfNQylt5vciqT8Fi2-1" value="macsec0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="51.63" y="272" width="78.75" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="T3owfNQylt5vciqT8Fi2-2" value="macsec" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="T3owfNQylt5vciqT8Fi2-2" value="macsec1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="232.62" y="271" width="78.75" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="T3owfNQylt5vciqT8Fi2-3" value="macsec" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
+        <mxCell id="T3owfNQylt5vciqT8Fi2-3" value="macsec2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" vertex="1" parent="1">
           <mxGeometry x="411.5" y="271" width="78.75" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="T3owfNQylt5vciqT8Fi2-4" value="traffic flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
@@ -96,11 +96,11 @@
         <mxCell id="T3owfNQylt5vciqT8Fi2-5" value="traffic flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="127" y="504" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="T3owfNQylt5vciqT8Fi2-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="26" y="223" width="488" height="117" as="geometry"/>
-        </mxCell>
         <mxCell id="T3owfNQylt5vciqT8Fi2-8" value="SFC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="464" y="320" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="T3owfNQylt5vciqT8Fi2-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="223" width="488" height="117" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
